@@ -2,3 +2,4 @@ some random text
 Hello. I am AMinat
 This is a GIT class
 Welcome
+Thanks Aminat
